@@ -58,7 +58,6 @@ Use Youtube comment datasets from [this link](https://www.kaggle.com/datasnaek/y
   * Test the Model using different Random States
   * Test the model with two reviews from Yelp
 
-**"Main Gunda Mawali Ya eve teaser nahi!"**
 
 **Note:**
 The model's performance varies when implemented on a different processing system having different specifications, this is an unusual behavior observed. If the community can help figure out this problem, it would help a lot of people including the author of this post. By community, it means the readers who will go through this tutorial!*
