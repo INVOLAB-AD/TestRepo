@@ -1,0 +1,116 @@
+
+C:\Users\ANKIT\Desktop\################################>python
+Python 3.6.5 (v3.6.5:f59c0932b4, Mar 28 2018, 17:00:18) [MSC v.1900 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+
+>>> import json
+>>> import facebook
+>>> ACCESS_TOKEN = "EAAD62Y8uf0U*******************###################*******************************************************"
+>>> graph = facebook.GraphAPI(ACCESS_TOKEN)
+>>> profile = graph.get_object('me',fields="name,location,link,posts")
+>>> type(profile)
+<class 'dict'>
+>>> print(json.dumps(profile,indent=4))
+{
+    "name": "EkZite We Serve Your Dreams",
+    "location": {
+        "city": "Ghaziabad",
+        "country": "India",
+        "latitude": 28.70184,
+        "longitude": 77.42858,
+        "street": "A2/1309, SCC HEIGHTS, RAJ NAGAR EXTENSION",
+        "zip": "201017"
+    },
+    "link": "https://www.facebook.com/368856890428821",
+    "posts": {
+        "data": [
+            {
+                "created_time": "2020-07-13T07:50:54+0000",
+                "id": "368856890428821_599538870693954"
+            },
+            {
+                "created_time": "2019-07-08T19:05:06+0000",
+                "message": "Yeah on successful completion of our phase one......Now we are heading towards phase 2 of implementation......\n^_^ ^_^ ^_^",
+                "id": "368856890428821_379707792677064"
+            },
+            {
+                "created_time": "2019-07-06T17:39:43+0000",
+                "message": "A small intro of romantic decorations....",
+                "story": "EkZite We Serve Your Dreams is celebrating friendship.",
+                "id": "368856890428821_378751432772700"
+            },
+            {
+                "created_time": "2019-07-06T17:36:21+0000",
+                "message": "Special for couples........",
+                "story": "EkZite We Serve Your Dreams is feeling in love.",
+                "id": "368856890428821_378750179439492"
+            },
+            {
+                "created_time": "2019-07-05T17:00:35+0000",
+                "id": "368856890428821_378262676154909"
+            },
+            {
+                "created_time": "2019-06-23T14:10:18+0000",
+                "message": "Starting from 349 (2-4 person)\nWe are happy to share this with you guys.................\nOrganise your small or big events in VVIP mall, a huge variety of food, decorations, entertainment ......\nTie up with DOSAKA, Grill Inn, Wataburger, Bakery Chief\n\nHave food, decorations, entertainment in low price and high quality guaranteed......",
+                "id": "368856890428821_372031830111327"
+            },
+            {
+                "created_time": "2019-06-21T14:39:00+0000",
+                "message": "Tie Up with Grill Inn https://grillin.in successful...\nLocation: vvip styles mall, Raj Nagar Extension, ghaziabad.\nAll Thanks To Raj Aryan and Chetan Verma.",
+                "id": "368856890428821_370954613552382"
+            },
+            {
+                "created_time": "2019-06-19T12:35:08+0000",
+                "id": "368856890428821_369851216996055"
+            },
+            {
+                "created_time": "2019-06-19T12:19:18+0000",
+                "message": "organize your events with the team of professionals.\n\nhave quality in the same price.",
+                "id": "368856890428821_369842576996919"
+            },
+            {
+                "created_time": "2019-06-18T08:51:12+0000",
+                "message": "New proposed design from the users........\nWe take care of all your dreams in the same price you spend by yourself....",
+                "id": "368856890428821_369244630390047"
+            },
+            {
+                "created_time": "2019-06-18T07:38:49+0000",
+                "message": "A large variety of food items.......",
+                "id": "368856890428821_369221857058991"
+            },
+            {
+                "created_time": "2019-06-18T07:21:20+0000",
+                "message": "More than 1000 types of decoration ideas and can be customized according to you requirement for small or big any kind of parties.",
+                "id": "368856890428821_369216293726214"
+            },
+            {
+                "created_time": "2019-06-18T07:16:44+0000",
+                "message": "Attractive design models for decoration of your fun events...",
+                "id": "368856890428821_369213740393136"
+            },
+            {
+                "created_time": "2019-06-18T07:15:48+0000",
+                "message": "Organise your events minimum package starts from 1500* only..",
+                "id": "368856890428821_369213323726511"
+            },
+            {
+                "created_time": "2019-06-17T14:36:55+0000",
+                "story": "EkZite We Serve Your Dreams updated their cover photo.",
+                "id": "368856890428821_368858477095329"
+            },
+            {
+                "created_time": "2019-06-17T14:35:02+0000",
+                "message": "(c) EkZite, All Rights Are Reserved",
+                "story": "EkZite We Serve Your Dreams updated their profile picture.",
+                "id": "368856890428821_368857640428746"
+            }
+        ],
+        "paging": {
+            "cursors": {
+                "before": "QVFIUlQ0ejZAXTGg5NmU4ZAHFCbmIzYUYyMTBzQjZAXU1RCNXdNSlN2ZATRGRUNzcHN0eFRBS3djRGNIejBrUlQ0Y2JrRERZAWm5oZADRJUkVFcnBIZAjJ4WS1VOHRxZAXFubHR6ZAWVabTk4OUg3ZAzJBUXFMUXZAibkJLT0tKTGxTcm9JN09LaUdi",
+                "after": "QVFIUmV1eHA5MUNkUHMxZA0VYX1hlaDJOVjJjYml6TDlfYUliVURfY1hjMVFjZAnYwNGJydkFRVEh1eHFFc1VpVFZAGYkdHdkt5eW5OcXBjTjBvVUlETVZAiN0d1SFZASTFZApdHVzdjNnX1lvZA3pDQVlxQzQwTkhoMXBsMU5QV3lBMGVCMldI"
+            }
+        }
+    },
+    "id": "368856890428821"
+}

@@ -1,0 +1,223 @@
+Microsoft Windows [Version 10.0.14393]
+(c) 2016 Microsoft Corporation. All rights reserved.
+
+C:\Users\ANKIT\Desktop\My Resume\MajorProject\MIOTT\Tests>python instapy_test.py
+InstaPy Version: 0.6.9
+ ._.  ._.  ._.  ._.  ._.  ._.  ._.  ._.  ._.
+Workspace in use: "C:/Users/ANKIT/InstaPy"
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+INFO [2020-07-16 18:45:09] [ankitadwitya]  Session started!
+oooooooooooooooooooooooooooooooooooooooooooooooooooooo
+INFO [2020-07-16 18:45:09] [ankitadwitya]  -- Connection Checklist [1/2] (Internet Connection Status)
+INFO [2020-07-16 18:45:15] [ankitadwitya]  - Internet Connection Status: ok
+INFO [2020-07-16 18:45:15] [ankitadwitya]  - Current IP is "42.111.75.177" and it's from "India/IN"
+INFO [2020-07-16 18:45:15] [ankitadwitya]  -- Connection Checklist [2/2] (Hide Selenium Extension)
+INFO [2020-07-16 18:45:15] [ankitadwitya]  - window.navigator.webdriver response: True
+WARNING [2020-07-16 18:45:15] [ankitadwitya]  - Hide Selenium Extension: error
+Cookie file not found, creating cookie...
+INFO [2020-07-16 18:48:58] [ankitadwitya]  Timed out with failure while explicitly waiting until title contains 'Login' string!
+
+INFO [2020-07-16 18:49:30] [ankitadwitya]  Timed out with failure while explicitly waiting until page fully loaded!
+
+..........................................................................................................................
+CRITICAL [2020-07-16 18:49:36] [ankitadwitya]  Unable to login to Instagram! You will find more information in the logs above.
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+ERROR [2020-07-16 18:49:36] [ankitadwitya]  You have too few comments, please set at least 10 distinct comments to avoid looking suspicious.
+
+INFO [2020-07-16 18:49:37] [ankitadwitya]  Sessional Live Report:
+        |> No any statistics to show
+
+
+[Session lasted 5.1 minutes]
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+INFO [2020-07-16 18:49:37] [ankitadwitya]  Session ended!
+ooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+
+
+
+C:\Users\ANKIT\Desktop\My Resume\MajorProject\MIOTT\Tests>python instapy_test.py
+InstaPy Version: 0.6.9
+ ._.  ._.  ._.  ._.  ._.  ._.  ._.  ._.  ._.
+Workspace in use: "C:/Users/ANKIT/InstaPy"
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+INFO [2020-07-16 18:50:56] [ankitadwitya]  Session started!
+oooooooooooooooooooooooooooooooooooooooooooooooooooooo
+INFO [2020-07-16 18:50:57] [ankitadwitya]  -- Connection Checklist [1/2] (Internet Connection Status)
+INFO [2020-07-16 18:51:00] [ankitadwitya]  - Internet Connection Status: ok
+INFO [2020-07-16 18:51:00] [ankitadwitya]  - Current IP is "42.111.75.177" and it's from "India/IN"
+INFO [2020-07-16 18:51:00] [ankitadwitya]  -- Connection Checklist [2/2] (Hide Selenium Extension)
+INFO [2020-07-16 18:51:00] [ankitadwitya]  - window.navigator.webdriver response: True
+WARNING [2020-07-16 18:51:00] [ankitadwitya]  - Hide Selenium Extension: error
+Cookie file not found, creating cookie...
+INFO [2020-07-16 18:51:44] [ankitadwitya]  Timed out with failure while explicitly waiting until title contains 'Login' string!
+
+..................................................................
+INFO [2020-07-16 18:52:45] [ankitadwitya]  Logged in successfully!
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+INFO [2020-07-16 18:52:45] [ankitadwitya]  Saving account progress...
+INFO [2020-07-16 18:54:34] [ankitadwitya]  Tag [1/1]
+INFO [2020-07-16 18:54:34] [ankitadwitya]  --> b'digitalart'
+INFO [2020-07-16 18:55:42] [ankitadwitya]  desired amount: 14  |  top posts [disabled]: 9  |  possible posts: 59583536
+INFO [2020-07-16 18:55:49] [ankitadwitya]  Like# [1/14]
+INFO [2020-07-16 18:55:49] [ankitadwitya]  https://www.instagram.com/p/CCtFzAtDJDy/
+INFO [2020-07-16 18:55:54] [ankitadwitya]  Image from: b'krreativv'
+INFO [2020-07-16 18:55:54] [ankitadwitya]  Link: b'https://www.instagram.com/p/CCtFzAtDJDy/'
+INFO [2020-07-16 18:55:54] [ankitadwitya]  Description: b'Kisses \xf0\x9f\x8c\x9e\xf0\x9f\x8c\x9d\n\n#art #artist #drawing #artwork #love #photography #painting #illustration #instagood #artistsoninstagram #digitalart #sketch #design #photooftheday #arte #like #fashion #instagram #beautiful #draw #follow #nature #picoftheday #photo #instaart #music #fanart #style #contemporaryart #bhfyp'
+INFO [2020-07-16 18:57:16] [ankitadwitya]  --> Invalid Like Element!
+INFO [2020-07-16 18:57:16] [ankitadwitya]  Like# [2/14]
+INFO [2020-07-16 18:57:16] [ankitadwitya]  https://www.instagram.com/p/CCtFy-nAuKm/
+INFO [2020-07-16 18:57:22] [ankitadwitya]  Image from: b'tegneerlend'
+INFO [2020-07-16 18:57:22] [ankitadwitya]  Link: b'https://www.instagram.com/p/CCtFy-nAuKm/'
+INFO [2020-07-16 18:57:22] [ankitadwitya]  Description: b'2.April 2020 VS 8.Juli 2020 \xf0\x9f\x98\x81\n.\n.\n.\n.\n#tegne #tegning #norge #norway #drawing #draw #art #artwork #digitalart #artist #artoftheday #artistsoninstagram #artistsofinstagram #instagram #instagood #insta #instapic'
+INFO [2020-07-16 18:58:45] [ankitadwitya]  --> Invalid Like Element!
+INFO [2020-07-16 18:58:45] [ankitadwitya]  Like# [3/14]
+INFO [2020-07-16 18:58:45] [ankitadwitya]  https://www.instagram.com/p/CCtFyvzpDEG/
+INFO [2020-07-16 18:58:48] [ankitadwitya]  Image from: b'bunnodraws'
+INFO [2020-07-16 18:58:48] [ankitadwitya]  Link: b'https://www.instagram.com/p/CCtFyvzpDEG/'
+INFO [2020-07-16 18:58:48] [ankitadwitya]  Description: b'art trade with @cola.dinoz !! \xf0\x9f\x92\x96\xf0\x9f\x92\x95\ni had so much fun drawing stickers!! although, stickers was pretty challenging considering i dont draw raptors! i hope it looks enough like stickers aldjdkdjkddkd \xf0\x9f\x92\x95\xf0\x9f\x92\x95\n\xe2\x80\xa2\n\xe2\x80\xa2\n\xe2\x80\xa2\n\xe2\x80\xa2\n\xe2\x80\xa2\n\xe2\x80\xa2\n\xe2\x80\xa2\n\xe2\x80\xa2\n\xe2\x80\xa2\n#art#digital#artist#artwork#digitalart#digitalartist#digitalartwork#raptor#mochiraptor#arttrade#dinosaur#dinosaurs#purple#blue#black#dark#gray#yellow#stripe#stripes#feathers#digitalillustration#digitaldrawing #digitalpainting#digitaldinosaur#cute#cuteart#digitalcuteart#cutedigitalart#cuteanimalart'
+INFO [2020-07-16 19:00:11] [ankitadwitya]  --> Invalid Like Element!
+INFO [2020-07-16 19:00:11] [ankitadwitya]  Like# [4/14]
+INFO [2020-07-16 19:00:11] [ankitadwitya]  https://www.instagram.com/p/CCtFyltDpkB/
+INFO [2020-07-16 19:00:19] [ankitadwitya]  Image from: b'mind_parks'
+INFO [2020-07-16 19:00:19] [ankitadwitya]  Link: b'https://www.instagram.com/p/CCtFyltDpkB/'
+INFO [2020-07-16 19:00:19] [ankitadwitya]  Description: b'Can\xe2\x80\x99t sleep. Must draw stock photos.\n.\n.\n.\n.\n.\n.\n.\n\n#procreate #art #digitalart #illustration #drawing #procreateart #artist #sketch #artistsoninstagram #ipadpro #digitalillustration #artwork #fanart #digitaldrawing #digitalpainting #draw #illustrator #procreatedrawing #digital #instaart #ipad #painting #design #applepencil #doodle #characterdesign #digitalartist #graphicdesign #artoftheday #bhfyp'
+INFO [2020-07-16 19:02:04] [ankitadwitya]  --> Invalid Like Element!
+INFO [2020-07-16 19:02:04] [ankitadwitya]  Like# [5/14]
+INFO [2020-07-16 19:02:04] [ankitadwitya]  https://www.instagram.com/p/CCtFyfljB-i/
+INFO [2020-07-16 19:02:12] [ankitadwitya]  Image from: b'chilledcatart'
+INFO [2020-07-16 19:02:12] [ankitadwitya]  Link: b'https://www.instagram.com/p/CCtFyfljB-i/'
+INFO [2020-07-16 19:02:12] [ankitadwitya]  Description: b"Hey I'm back... kinda. Been a while but enjoy my new project surrounding mental disorders. Also changed my canvas size and forgot about instas lame ass cropping so sorry bout that. Better quality available on my artstation though !\n.\n.\nSad and upsetting events happen to everyone. But, if you\xe2\x80\x99re feeling down or hopeless on a regular basis, you could be dealing with depression. Depression is considered a serious medical condition that can get worse without proper treatment. Those who seek treatment often see improvements in symptoms in just a few weeks. Of course, this can vary from person to person as finding the right medication can be difficult as every individuals mind is different. \n\nThanks to the improved understanding of the causes of depression, effective treatments have emerged. Psychotherapy and medications that target molecules called neurotransmitters are generally the preferred treatments, although electroconvulsive therapy may be utilized in certain instances, such as in treatment-resistant depression or severe cases where immediate relief is required. \nUnfortunately, the causes of depression are more complex than we yet understand, with no single treatment providing satisfactory results for everyone. Because depression is such a complex condition, mental health professionals often recommend a treatment approach that includes medications, psychotherapies, and lifestyle modifications.\n\nIf you or someone you know are experiencing any thoughts of self harm/ suicide and/or you need to talk to someone especially during these confusing and scary times here's some numbers below;\n\nFrom the NHS website (UK) >> \nSamaritans \xe2\x80\x93 for everyone \nCall 116 123 \nEmail jo@samaritans.org\n.\n.\n.\n#art #mentalhealth #mentalhealthawareness #portrait #digitalart #digitalportrait #digitalartist #painting #digitalpainting #art #atist #clipstudio #dawing #artwork #depressionawareness #depressionhelp"
+INFO [2020-07-16 19:04:49] [ankitadwitya]  --> Invalid Like Element!
+INFO [2020-07-16 19:04:49] [ankitadwitya]  Like# [6/14]
+INFO [2020-07-16 19:04:49] [ankitadwitya]  https://www.instagram.com/p/CCtFycCJiUR/
+INFO [2020-07-16 19:04:54] [ankitadwitya]  Image from: b'jared.ponients'
+INFO [2020-07-16 19:04:54] [ankitadwitya]  Link: b'https://www.instagram.com/p/CCtFycCJiUR/'
+INFO [2020-07-16 19:04:54] [ankitadwitya]  Description: b'ATLA x Ghibli\nWhat if haku knows the dragon dance and then he taught Chihiro the dance? :))\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#illustration #atla #avatarthelastairbender #avatarthelastairbenderart #ghibli #spiritedaway #haku #chihiro #photoshop #illustrator #art #artistsoninstagram #clouds #illustratorsoninstagram #cloudpainting #crossover #digitalpainting #digitalart #dragondance'
+INFO [2020-07-16 19:06:19] [ankitadwitya]  --> Invalid Like Element!
+INFO [2020-07-16 19:06:19] [ankitadwitya]  Like# [7/14]
+INFO [2020-07-16 19:06:19] [ankitadwitya]  https://www.instagram.com/p/CCtFyc8nGUZ/
+INFO [2020-07-16 19:06:23] [ankitadwitya]  Image from: b'teenshade_official'
+INFO [2020-07-16 19:06:23] [ankitadwitya]  Link: b'https://www.instagram.com/p/CCtFyc8nGUZ/'
+INFO [2020-07-16 19:06:23] [ankitadwitya]  Description: b'To purchase theses products just click the link in the Bio.\n\nIf you have any quarry you can DM us.\n\nKeep Loving keep supporting \xe2\x9d\xa4\xef\xb8\x8f\xf0\x9f\x99\x8f\n\n  TEENSHADE  DISCOVER SOMETHING NEW\n\n#redbubble #redbubbleartist #art #findyourthing #redbubbleshop #digitalart #artist #tshirt #redbubbleart #illustration #design #society #redbubblecreate #redbubblestore #redbubblestickers #stickers #teepublic #redbubbleartists #tshirtdesign #redbubbledesign #redbubbleproducts #drawing #fashion #graphicdesign #printondemand #homedecor #artistsoninstagram #artwork #teespring #bhfyp'
+INFO [2020-07-16 19:07:53] [ankitadwitya]  --> Invalid Like Element!
+INFO [2020-07-16 19:07:53] [ankitadwitya]  Like# [8/14]
+INFO [2020-07-16 19:07:53] [ankitadwitya]  https://www.instagram.com/p/CCtFyBEBwlK/
+INFO [2020-07-16 19:07:58] [ankitadwitya]  Image from: b'sayuseven'
+INFO [2020-07-16 19:07:58] [ankitadwitya]  Link: b'https://www.instagram.com/p/CCtFyBEBwlK/'
+INFO [2020-07-16 19:07:58] [ankitadwitya]  Description: b'Resentment leads to hate, hate leads to violence.\n\n#mysticmessenger #mysme #fanart #saeranchoi #saeran #digitalart #fanart #digitalpainting #edgymarshmallow #saeyoungchoi #yoosungkim #juminhan #hyunryu #jihyun #v #rikakim #jaeheekang'
+INFO [2020-07-16 19:09:40] [ankitadwitya]  --> Invalid Like Element!
+INFO [2020-07-16 19:09:40] [ankitadwitya]  Like# [9/14]
+INFO [2020-07-16 19:09:40] [ankitadwitya]  https://www.instagram.com/p/CCtFx0nATl8/
+INFO [2020-07-16 19:09:44] [ankitadwitya]  Image from: b'alexlanierart'
+INFO [2020-07-16 19:09:44] [ankitadwitya]  Link: b'https://www.instagram.com/p/CCtFx0nATl8/'
+INFO [2020-07-16 19:09:44] [ankitadwitya]  Description: b'Starting new set. The Strange Bakery Series. Work in Progress (Custom Chess Set)#chessboard #chessset #customchesspieces #customchessboard #customchessset #abstractcityart #abstractart #cityart #colorfulartwork #abstractarchitecture #digitalart #zbrushart #zbrushabstract #tentacles #colorfulabstractart #dubai #abstractsculpture #colorfulsculpture #architecture'
+INFO [2020-07-16 19:11:07] [ankitadwitya]  --> Invalid Like Element!
+INFO [2020-07-16 19:11:07] [ankitadwitya]  Like# [10/14]
+INFO [2020-07-16 19:11:07] [ankitadwitya]  https://www.instagram.com/p/CCtFxwzgn-K/
+INFO [2020-07-16 19:11:13] [ankitadwitya]  Image from: b'kise_ryout4'
+INFO [2020-07-16 19:11:13] [ankitadwitya]  Link: b'https://www.instagram.com/p/CCtFxwzgn-K/'
+INFO [2020-07-16 19:11:13] [ankitadwitya]  Description: b'Amo A Zero Two UwU\n\xe2\x80\xa2\n\xe2\x80\xa2\n\xf0\x9f\x85\xa2\xf0\x9f\x85\x94 \xf0\x9f\x85\x95\xf0\x9f\x85\x9e\xf0\x9f\x85\xa1 \xf0\x9f\x85\xa4\xf0\x9f\x85\xa2\xf0\x9f\x85\x90\xf0\x9f\x85\xa1 \xf0\x9f\x85\x93\xf0\x9f\x85\x94\xf0\x9f\x85\x98\xf0\x9f\x85\xa7\xf0\x9f\x85\x90 \xf0\x9f\x85\x9e\xf0\x9f\x85\xa2 \xf0\x9f\x85\x92\xf0\x9f\x85\xa1\xf0\x9f\x85\x94\xf0\x9f\x85\x93\xf0\x9f\x85\x98\xf0\x9f\x85\xa3\xf0\x9f\x85\x9e\xf0\x9f\x85\xa2\n\xe2\x80\xa2\n\xe2\x80\xa2\n\xe2\x80\xa2 C\xca\x80\xe1\xb4\x87\xcc\x81\xe1\xb4\x85\xc9\xaa\xe1\xb4\x9b\xe1\xb4\x8fs:E\xe1\xb4\x9c Ms\xe1\xb4\x8d\n\xe2\x80\xa2\n\xe2\x80\xa2\nParcerias:@otaku__zone_\n@murasakibara_luzcax @midorima_shint4rou @kuroko_tetsuy4 @otaku_nation4 @himawari__do__byakugan @hinatasho_kun @naruto_uzumaki_oficial_brasil @pandinha_haruno255 @nooxyw @uma_sakura_iludidah @m.j_otaku_geek @baka.__chan @todorokizinbr\n\nTags(Ignorem)\n\n#anime #manga #otaku #drop777 #sasuke #animegirl #kawaii #animeart #naruto #haikyuu #fanart #cute #animememes #animeedits #memes #animeedit #animes #japan #animelove #cosplayer #darlinginthefranxx #animegirls #cosplaygirl #zerotwo #digitalart #cosplay #edit #myheroacademia'
+INFO [2020-07-16 19:13:15] [ankitadwitya]  --> Invalid Like Element!
+INFO [2020-07-16 19:13:15] [ankitadwitya]  Like# [11/14]
+INFO [2020-07-16 19:13:15] [ankitadwitya]  https://www.instagram.com/p/CCtFxydDw4N/
+INFO [2020-07-16 19:13:24] [ankitadwitya]  Image from: b'reck_julia'
+INFO [2020-07-16 19:13:24] [ankitadwitya]  Link: b'https://www.instagram.com/p/CCtFxydDw4N/'
+INFO [2020-07-16 19:13:24] [ankitadwitya]  Description: b'I\xe2\x80\x99m back! \nI took a break after mermay, blacking out the account and playing way to much animal crossing. \nSo let\xe2\x80\x99s pick up #inktober52 again! I ended on the color elemental series. For prompt 16 #yellow I had a completely different idea. I sketched it months ago and now I completed it. \n.\n.\n.\n.\n#inktober52yellow #inktober #inktober2020 #inktober52prompt16 #snek #snake #albinoboaconstrictor #confused #cutewitch #quarantineart #witchesofinstagram #witch #witchcraft #darkpower #blackcat #illustration #juliareck #reckjulia #ipadpro #ipadprocreate #digitalinking #digitalart #artistsoninstagram #montrealartist #witchythings #witch\xf0\x9f\x94\xae\xf0\x9f\x8c\x99 #mtlmoments'
+INFO [2020-07-16 19:13:24] [ankitadwitya]  Location: b'Montreal, Quebec'
+INFO [2020-07-16 19:15:26] [ankitadwitya]  --> Invalid Like Element!
+INFO [2020-07-16 19:15:26] [ankitadwitya]  Like# [12/14]
+INFO [2020-07-16 19:15:26] [ankitadwitya]  https://www.instagram.com/p/CCtFs1KDgch/
+INFO [2020-07-16 19:15:31] [ankitadwitya]  Image from: b'saumya_xxart'
+INFO [2020-07-16 19:15:31] [ankitadwitya]  Link: b'https://www.instagram.com/p/CCtFs1KDgch/'
+INFO [2020-07-16 19:15:31] [ankitadwitya]  Description: b'Dear junk food,\n\nI keep running back to you, especially in this quarantine!\n\xc2\xa0\xc2\xa0\nHave been repeatedly listening to this song and all I could think of, was food.\xc2\xa0\n.\n.\nMusic by @anishsood @lisamishramusic\n\nArt and edit by @saumya_xxart\n.\n.\n#runningbacktoyou #anishsood #lisamishra #lisamishramusic #foodporn #foodie #foodieforlife #foodoftheday #foodism #foodlove #graphicgang #graphicoftheday #graphicdesign #designfeed #EyeOnDesignMag #illustrator #GraphicDesignCentral #behance #procreate #digitalart #creative #artwork #graphicdesigners #ipaddrawing #dailyposter #illustrationlove'
+INFO [2020-07-16 19:17:52] [ankitadwitya]  --> Invalid Like Element!
+INFO [2020-07-16 19:17:52] [ankitadwitya]  Like# [13/14]
+INFO [2020-07-16 19:17:52] [ankitadwitya]  https://www.instagram.com/p/CCtFxkcnwaQ/
+INFO [2020-07-16 19:17:58] [ankitadwitya]  Image from: b'_keepithush_'
+INFO [2020-07-16 19:17:58] [ankitadwitya]  Link: b'https://www.instagram.com/p/CCtFxkcnwaQ/'
+INFO [2020-07-16 19:17:58] [ankitadwitya]  Description: b'Geometric patterns build up a foundation and unity that has a composition create harmony! #art #artwork #arttoday #artnow #graphic #graphicart #artnetwork #character #artgallery #artins #artgallery #abstract #abstractca #streetart #urbanart #alien #painting #doodle #color #digitalart #digital #tech #technology #creativegallery'
+INFO [2020-07-16 19:19:22] [ankitadwitya]  --> Invalid Like Element!
+INFO [2020-07-16 19:19:22] [ankitadwitya]  Like# [14/14]
+INFO [2020-07-16 19:19:22] [ankitadwitya]  https://www.instagram.com/p/CCtFxdzjklQ/
+INFO [2020-07-16 19:19:58] [ankitadwitya]  Image from: b'art.by.kmclain'
+INFO [2020-07-16 19:19:58] [ankitadwitya]  Link: b'https://www.instagram.com/p/CCtFxdzjklQ/'
+INFO [2020-07-16 19:19:58] [ankitadwitya]  Description: b"ABC Sketches Letter G\n\nwore myself out doing a tough one and ended up hating it anyway. these look a little unfinished, except for the gargoyle which I did this morning. welp, can't win em all!\n\n#alphabet #abcs #digitalart #digitalillustration #illustration #pittsburghcreative #goats #yoga #farm #grunge #flannel #sweater #brickwall #gargoyle #cathedral #medieval"
+INFO [2020-07-16 19:21:41] [ankitadwitya]  --> Invalid Like Element!
+INFO [2020-07-16 19:21:41] [ankitadwitya]  Tag: b'digitalart'
+INFO [2020-07-16 19:21:41] [ankitadwitya]  Liked: 0
+INFO [2020-07-16 19:21:41] [ankitadwitya]  Already Liked: 0
+INFO [2020-07-16 19:21:41] [ankitadwitya]  Commented: 0
+INFO [2020-07-16 19:21:41] [ankitadwitya]  Followed: 0
+INFO [2020-07-16 19:21:41] [ankitadwitya]  Inappropriate: 0
+INFO [2020-07-16 19:21:41] [ankitadwitya]  Not valid users: 0
+
+INFO [2020-07-16 19:21:46] [ankitadwitya]  Downloaded postids from Pod sports:
+INFO [2020-07-16 19:21:46] [ankitadwitya]  [{'postid': 'CCr8-AAlAWX', 'mode': 'no_comments'}, {'mode': 'no_comments', 'postid': 'CCsuVaCBZU_'}, {'postid': 'CCsKbzSlbi1', 'mode': 'no_comments'}, {'postid': 'CCs3M9cBiAQ', 'mode': 'no_comments'}]
+INFO [2020-07-16 19:21:46] [ankitadwitya]  Downloaded pod_posts : [{'postid': 'CCr8-AAlAWX', 'mode': 'no_comments'}, {'mode': 'no_comments', 'postid': 'CCsuVaCBZU_'}, {'postid': 'CCsKbzSlbi1', 'mode': 'no_comments'}, {'postid': 'CCs3M9cBiAQ', 'mode': 'no_comments'}]
+INFO [2020-07-16 19:21:54] [ankitadwitya]  Post: CCQ5viwjjme9WH8aCkccu0Tt976ZfBDW6FitZ40, Instaposted at: 2020-07-05 14:40:40
+INFO [2020-07-16 19:22:00] [ankitadwitya]  Post: B_bWL7yjSQSn8AUpUCgYu8pi_ocHwQzxZHPDjI0, Instaposted at: 2020-04-26 02:27:26
+INFO [2020-07-16 19:22:06] [ankitadwitya]  Post: CCky7TODl7p1zjUkGsDc_iCaijrq-EoX_peS940, Instaposted at: 2020-07-13 08:05:55
+INFO [2020-07-16 19:22:11] [ankitadwitya]  Post: CCljtJYDfb23swnjs5IwHx5B5EZkiP9TBOTG2E0, Instaposted at: 2020-07-13 15:12:09
+INFO [2020-07-16 19:22:36] [ankitadwitya]  Post: CCYp9ehDRQOX9iROmDcVF3sUeWKc1N2pNCnecI0, Instaposted at: 2020-07-08 14:56:41
+INFO [2020-07-16 19:22:41] [ankitadwitya]  Post: CCkxnYNDoTVwIQ8KNwzpg8sKYXf5XzbZN5wsIU0, Instaposted at: 2020-07-13 07:54:28
+INFO [2020-07-16 19:22:49] [ankitadwitya]  Post: CCMWlB5jWoF8o4UTWFYws6y0oRC166ENyKQ7fI0, Instaposted at: 2020-07-03 20:16:26
+INFO [2020-07-16 19:22:54] [ankitadwitya]  Post: CAMvqnnjDBqeYYeLmir81I2nVNDgRBGbNHDtyo0, Instaposted at: 2020-05-15 06:52:52
+INFO [2020-07-16 19:23:00] [ankitadwitya]  Post: CCb3HQTD9tY48Hpl336QdIQMuv1Wt7g14cO6JU0, Instaposted at: 2020-07-09 20:49:20
+INFO [2020-07-16 19:23:07] [ankitadwitya]  Post: CBlgsp0DPTluqOqmkX6Z9WPkw13v7UsfvnEVMI0, Instaposted at: 2020-06-18 18:14:29
+INFO [2020-07-16 19:23:13] [ankitadwitya]  Post: CCJBpN8DgXcmhjrG0O07LuTNaCO0oK5bFN7Ei00, Instaposted at: 2020-07-02 13:15:47
+INFO [2020-07-16 19:23:18] [ankitadwitya]  Post: CCIKdELDFFSddOF2MfJn7T_RvKfzEML4oXpCrE0, Instaposted at: 2020-07-02 05:13:32
+INFO [2020-07-16 19:23:27] [ankitadwitya]  Post: CCbyLqrj9VseNXF5uLlcn7APmEtnA13lpprIjo0, Instaposted at: 2020-07-09 20:06:15
+INFO [2020-07-16 19:23:33] [ankitadwitya]  Post: CCg-vL4DeoV6z-2HXdYJ4xW-_rei4n_AHWXNIo0, Instaposted at: 2020-07-11 20:32:10
+INFO [2020-07-16 19:23:39] [ankitadwitya]  Post: CCiySgUjv6gSYHT7MY_7EX8u_A85LQrznNdIuU0, Instaposted at: 2020-07-12 13:21:52
+INFO [2020-07-16 19:23:45] [ankitadwitya]  Post: CCaowsIj-Y31vhuqkfM_kn6mx9ElIBQcnK95yM0, Instaposted at: 2020-07-09 09:24:41
+INFO [2020-07-16 19:23:53] [ankitadwitya]  Post: B_bV621jJaG4wwGVzM23X-DXd_3QXSXWCnzjyI0, Instaposted at: 2020-04-26 02:25:06
+INFO [2020-07-16 19:23:59] [ankitadwitya]  Post: CCkx10VDLTzN_Wa-DcaGcq-d2zatRBnZmlqlqw0, Instaposted at: 2020-07-13 07:56:26
+INFO [2020-07-16 19:24:06] [ankitadwitya]  Post: CCeZeH2D-W_uakCm6WnUtobuDYaBVyyzjqQlas0, Instaposted at: 2020-07-10 20:28:02
+INFO [2020-07-16 19:24:13] [ankitadwitya]  Post: CCdENY7j2aM4V4omxY6vOFsdSZ5-RF5pTZzjdI0, Instaposted at: 2020-07-10 08:03:01
+INFO [2020-07-16 19:24:41] [ankitadwitya]  Post: B_bVzDkDh1RbDHvTeAPMlwYlTTsVobm6_2mr2E0, Instaposted at: 2020-04-26 02:24:02
+INFO [2020-07-16 19:24:58] [ankitadwitya]  Post: CCgME0hjZxLcinwwWlySPsbfNmMXDWqw90lN1c0, Instaposted at: 2020-07-11 13:09:28
+INFO [2020-07-16 19:25:11] [ankitadwitya]  Post: CCX3tTyjKSewXKJPkUYUgF5uhwoKeKW5zx5tjw0, Instaposted at: 2020-07-08 07:37:34
+INFO [2020-07-16 19:25:32] [ankitadwitya]  Post: CCTg9PMjMyOeLoLBCUSiFNloipQTUXZqdo4N-w0, Instaposted at: 2020-07-06 15:01:49
+INFO [2020-07-16 19:25:34] [ankitadwitya]  I don't have any recent post, so I will just help a few pod posts and move on.
+ERROR [2020-07-16 19:25:34] [ankitadwitya]  no_comments_posts : [{'postid': 'CCr8-AAlAWX', 'mode': 'no_comments'}, {'mode': 'no_comments', 'postid': 'CCsuVaCBZU_'}, {'postid': 'CCsKbzSlbi1', 'mode': 'no_comments'}, {'postid': 'CCs3M9cBiAQ', 'mode': 'no_comments'}]
+ERROR [2020-07-16 19:25:34] [ankitadwitya]  light_posts : []
+ERROR [2020-07-16 19:25:34] [ankitadwitya]  normal_posts : []
+ERROR [2020-07-16 19:25:34] [ankitadwitya]  heavy_posts : []
+INFO [2020-07-16 19:26:01] [ankitadwitya]  Image from: b'mikib0i'
+INFO [2020-07-16 19:26:01] [ankitadwitya]  Link: b'https://www.instagram.com/p/CCr8-AAlAWX'
+INFO [2020-07-16 19:26:01] [ankitadwitya]  Description: b'Looking forward to this!! Cool pair bracelet for me and my wife. Check this out! \xe3\x81\x93\xe3\x82\x8c\xe3\x82\xb9\xe3\x82\xb2\xe3\x83\xbc@coordinatesjapan\n\n #coordinatesjapan #teamcoordinatesjapan #originaltriocuffs'
+INFO [2020-07-16 19:26:01] [ankitadwitya]  Location: b'Roppongi'
+WARNING [2020-07-16 19:26:18] [ankitadwitya]  Last follow is not verified.      ~'ankitadwitya' might be temporarily blocked from following
+
+INFO [2020-07-16 19:31:15] [ankitadwitya]  --> Invalid Like Element!
+INFO [2020-07-16 19:31:25] [ankitadwitya]  Image from: b'design.bigmike'
+INFO [2020-07-16 19:31:25] [ankitadwitya]  Link: b'https://www.instagram.com/p/CCsuVaCBZU_'
+INFO [2020-07-16 19:31:25] [ankitadwitya]  Description: b'Kill bill Motorbike girl!\n\n#tshirts #tshirt #fashion #tshirtdesign #hoodies #tees #clothing #shirts #tshirtshop #apparel #style #tshirtprinting #tshirtstore #design #love #moda #art #streetwear #tshirtslovers #shirt #tee #clothingbrand #clothes #customshirts #mensfashion #screenprinting #onlineshopping #teeshirts'
+INFO [2020-07-16 19:31:31] [ankitadwitya]  Last follow is verified after reloading the page!
+INFO [2020-07-16 19:31:31] [ankitadwitya]  --> Followed 'b'design.bigmike''!
+ERROR [2020-07-16 19:31:57] [ankitadwitya]  Failed to get the user ID of 'design.bigmike' from post page!
+INFO [2020-07-16 19:32:49] [ankitadwitya]  --> Invalid Like Element!
+INFO [2020-07-16 19:33:16] [ankitadwitya]  Image from: b'de_magallanes'
+INFO [2020-07-16 19:33:16] [ankitadwitya]  Link: b'https://www.instagram.com/p/CCsKbzSlbi1'
+INFO [2020-07-16 19:33:16] [ankitadwitya]  Description: b'It\xe2\x80\x99s seemed to visited old days. Absolutely beautiful #landscape. #Sanya #Nanshan #tourism #travel #trees #green #sky #water #sun'
+INFO [2020-07-16 19:33:26] [ankitadwitya]  Last follow is verified after reloading the page!
+INFO [2020-07-16 19:33:26] [ankitadwitya]  --> Followed 'b'de_magallanes''!
+ERROR [2020-07-16 19:33:51] [ankitadwitya]  Failed to get the user ID of 'de_magallanes' from post page!
+INFO [2020-07-16 19:34:45] [ankitadwitya]  --> Invalid Like Element!
+INFO [2020-07-16 19:35:01] [ankitadwitya]  Image from: b'grimmy.memes'
+INFO [2020-07-16 19:35:01] [ankitadwitya]  Link: b'https://www.instagram.com/p/CCs3M9cBiAQ'
+INFO [2020-07-16 19:35:01] [ankitadwitya]  Description: b'No description'
+INFO [2020-07-16 19:35:04] [ankitadwitya]  Last follow is verified after reloading the page!
+INFO [2020-07-16 19:35:05] [ankitadwitya]  --> Followed 'b'grimmy.memes''!
+ERROR [2020-07-16 19:35:35] [ankitadwitya]  Failed to get the user ID of 'grimmy.memes' from post page!
+INFO [2020-07-16 19:36:32] [ankitadwitya]  --> Invalid Like Element!
+
+INFO [2020-07-16 19:36:35] [ankitadwitya]  Sessional Live Report:
+        |> No any statistics to show
+
+
+[Session lasted 45.83 minutes]
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+INFO [2020-07-16 19:36:35] [ankitadwitya]  Session ended!
+ooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
