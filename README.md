@@ -1,4 +1,4 @@
-# TEST-1
+# TestRepo
 
 **Environment setup:**
 1. Install instapy `pip3 install instapy`
